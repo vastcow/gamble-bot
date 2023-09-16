@@ -1,3 +1,3 @@
-import { rollDice } from "./roll";
+import { rollDice } from "./roll.js";
 
 export { rollDice };

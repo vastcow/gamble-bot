@@ -1,4 +1,4 @@
-import { rollDice } from "./functions";
+import { rollDice } from "./functions/index.js";
 import "dotenv/config";
 import { Client, Events, GatewayIntentBits } from "discord.js";
 
